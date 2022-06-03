@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.808,E:\Users\LORD\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\Users\LORD\Desktop\PSP19 2.0\MainUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.808,E:\Users\LORD\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\Users\LORD\Desktop\PSP19 2.0\MainUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.117,E:\Users\LORD\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\Users\LORD\Desktop\PSP19 2.0\PyrometerSignalProcessor.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.113,=E:\Users\LORD\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
